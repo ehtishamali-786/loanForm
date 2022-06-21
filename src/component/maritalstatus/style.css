@@ -1,0 +1,24 @@
+
+.marital-card {
+    cursor: pointer;
+    width: 27%;
+     box-shadow: 0 6px 12px 0 rgba(0,0,0,0.2);
+     border-radius: 2px solid black!important;
+     margin-left: 20px;
+         margin-top: 20px;
+         padding: 10px;
+    
+   }
+   .marital-card:hover {
+    box-shadow: 0 14px 22px 0 rgba(255, 99, 71);
+  }
+
+
+.Text {
+    color: black;
+    justify-content: center;
+    display: flex;
+ 
+  font-weight: bold;
+  
+  }

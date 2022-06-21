@@ -1,0 +1,17 @@
+.labelbar{
+    background-color: var(--color1,#fff);
+    border-radius: 20px;
+    box-shadow: 0 10px 25px rgba(var(--color9-rgb,71,71,71),.25);
+    color: var(--color9,#008e8e);
+    font-family: SpaceGrotesk-Regular,Helvetica Neue,sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 24px;
+    min-width: 62px;
+    opacity: 1;
+    padding: 8px 16px;
+    position: relative;
+    transition: all .5s ease;
+    width: fit-content;
+
+  }
